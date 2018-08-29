@@ -8,6 +8,8 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Will review class policies.
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +19,7 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+create an enjoyable object, something so fun and pleasant that the functionality doesn't matter.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +31,11 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+wants to know the weather early in the morning
+doesn't want to strain eyes looking at phones
+maybe your phone isnt right by you
+wants to know when he will need his umbrella
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +44,9 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+*** solution: have an alarm device that wakes you with the sounds of the current weather (soothing rain, thunderstorms, wind, sunny with birds, etc.) and updates you (similar to alexa but with a soothing voice) on the days projected temperature fluctuations and meteorological daily info, hit off and an assistant will update you ***
+
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +54,7 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+good idea, make it optional to have the more detailed portion of the alarm
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +66,20 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+add some additional controls to fine tune the alarms functionality based on a users specific needs/wants.
+
+place sensors on the door to your home, reminding to take an umbrella with you.
+
+Allow flexibility for the user to select various levels of complexity (alarm sounds with the alarm sound implying weather, alexa-like voice alerting to the conditions throughout the day, sensors on the door reminding you to take an umbrella.)
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+1. Innovation
+2. User Friendliness
+3. Sustainability
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -66,7 +87,10 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 (5 minutes) Designers: Present your revised, final solutions and get the Customers' feedback.  Customers: Evaluate the proposed solution based on the Criteria you selected.
 
-***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
+***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?*** Good, further improvements might be just making it larger than just the weather/alarm app 
+
+
+
 
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
 
